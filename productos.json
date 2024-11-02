@@ -1,0 +1,62 @@
+[
+    {
+        "id": "combo gamer",
+        "titulo": "Combo Gamer",
+        "imagen": "./img/tecnologia/1.jpg",
+        "categoria": {
+            "nombre": "Tecnologia",
+            "id": "tecnologia"
+        },
+        "precio": 70
+    },
+    {
+        "id": "NETLIX",
+        "titulo": "NETFLIX PERFIL",
+        "imagen": "./img/streaming/netflix.jpg",
+        "categoria": {
+            "nombre": "Streaming",
+            "id": "streaming"
+        },
+        "precio": 10
+    },
+    {
+        "id": "IPTV TELEVISION ",
+        "titulo": "IPTV DIGITAL",
+        "imagen": "./img/streaming/15.png",
+        "categoria": {
+            "nombre": "Streaming",
+            "id": "streaming"
+        },
+        "precio": 12
+    },
+    {
+        "id": "CAJA MISTERIOSA",
+        "titulo": "CAJA MISTERIOSA",
+        "imagen": "./img/tecnologia/caja.jpg",
+        "categoria": {
+            "nombre": "Tecnologia",
+            "id": "tecnologia"
+        },
+        "precio": 190
+    },
+    {
+        "id": "SPOTIFY 3 MESES",
+        "titulo": "SPOTIFY 3 MESES",
+        "imagen": "./img/streaming/spotify.png",
+        "categoria": {
+            "nombre": "Streaming",
+            "id": "streaming"
+        },
+        "precio": 25
+    },
+    {
+        "id": "YOUTUBE 3 MESES",
+        "titulo": "YOUTUBE 3 MESES",
+        "imagen": "./img/streaming/youtube.png",
+        "categoria": {
+            "nombre": "Streaming",
+            "id": "streaming"
+        },
+        "precio": 30
+    }
+]
